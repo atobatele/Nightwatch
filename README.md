@@ -1,5 +1,9 @@
 # Nightwatch WebRTC Demo
-https://circleci.com/gh/atobatele/Nightwatch.svg?style=svg
+[![Build Status](https://circleci.com/gh/atobatele/Nightwatch.svg?style=shield)]()
+
+
+[![Build Status](https://circleci.com/gh/atobatele/Everwise/tree/master.svg?style=shield)]()
+
 Demo test project for [Testing WebRTC apps with Nightwatch](http://nightwatchjs.org/blog/testing-webrtc-apps-with-nightwatch/) blog article.
 
 ***
