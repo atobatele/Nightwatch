@@ -13,10 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:beatfactor/nightwatch-webrtcdemo.git"
+     
+     "url": "git@github.com:atobatele/Nightwatch.git"
   },
   "dependencies": {
-    "nightwatch": "~0.5.35"
+    "nightwatch": "~0.8.6"
   },
   "man": "",
   "scripts": {
